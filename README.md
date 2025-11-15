@@ -54,8 +54,7 @@ data/Finance_de_marche.xlsx
 ├─ notebooks/ 
 ├─ README.md
 ├─ requirements.txt
- 
----
+```
 
 ## Compétences mises en avant
 
@@ -75,3 +74,4 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
