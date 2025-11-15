@@ -34,7 +34,7 @@ data/Finance_de_marche.xlsx
 ---
 ## Exemple de graphique produit avec Python
 
-![Graphique BMW](bmw_plot.png)
+![Graphique BMW](Figure_1.png)
 
 ## Stack technique
 
@@ -78,6 +78,7 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
 
 
 
