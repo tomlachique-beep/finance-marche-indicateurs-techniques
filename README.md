@@ -51,7 +51,8 @@ data/Finance_de_marche.xlsx
 │  └─ Finance_de_marche.xlsx
 ├─ src/
 │  └─ indicators.py
-├─ notebooks/ 
+├─ notebooks/
+│  └─ 01_exploration_indicateurs_technique.ipynb
 ├─ README.md
 ├─ requirements.txt
 ```
@@ -74,4 +75,5 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
 
