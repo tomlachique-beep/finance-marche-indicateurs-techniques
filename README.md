@@ -51,11 +51,10 @@ data/Finance_de_marche.xlsx
 │  └─ Finance_de_marche.xlsx
 ├─ src/
 │  └─ indicators.py
-├─ notebooks/
-│  └─ 01_exploration_indicateurs_techniques.ipynb   
+├─ notebooks/ 
 ├─ README.md
 ├─ requirements.txt
-└─ .gitignore   
+ 
 ---
 
 ## Compétences mises en avant
@@ -74,4 +73,5 @@ Projet réalisé par **Lachique Tom**
 À la recherche d’un **stage en data analyst**.
 
 📩 E-mail : tom.lachique.135@gmail.com
+
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
