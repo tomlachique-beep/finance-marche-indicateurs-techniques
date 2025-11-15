@@ -32,6 +32,9 @@ data/Finance_de_marche.xlsx
 - **Bandes de Bollinger** : volatilité et excès de prix.
 
 ---
+## Exemple de graphique produit avec Python
+
+![Graphique BMW](bmw_plot.png)
 
 ## Stack technique
 
@@ -75,5 +78,6 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
 
 
