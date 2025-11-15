@@ -22,6 +22,8 @@ Les données sont stockées dans le fichier :
 
 data/Finance_de_marche.xlsx
 
+Les données ont été récupérées depuis le site ABC Bourse
+
 ---
 
 ##  Indicateurs techniques étudiés
@@ -78,6 +80,7 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
 
 
 
