@@ -1,28 +1,22 @@
 # Analyse technique de titres boursiers – Projet de Finance de Marché
 
-Ce dépôt présente un projet d'analyse technique réalisé dans le cadre d'un cours de Finance de Marché.  
-L'objectif est d'appliquer des indicateurs techniques classiques sur plusieurs actions européennes afin d'illustrer une démarche de data analysis appliquée aux marchés financiers.
+Dans le cadre de mon cours de Finance de Marché à l'Université de Toulon, j'y présente un projet d'analyse technique que j'ai réalisé.
+Mon but était d'utiliser des indicateurs techniques traditionnels sur diverses actions européennes. C'était pour moi l'opportunité d'appliquer une approche intégrale d'analyse des données dans le contexte des marchés financiers.
 
 ##  Objectifs du projet
 
-- Manipuler des séries temporelles de prix boursiers.
-- Calculer plusieurs **indicateurs techniques** :
-  - Moyennes mobiles (20 et 40 jours)
-  - RSI (Relative Strength Index)
-  - Indicateur stochastique
-  - Bandes de Bollinger
-- Mettre en forme les données pour une exploitation en **Python** (pandas / Jupyter).
-.
+Dans le cadre de ce projet, j'ai d'abord pris le temps de me familiariser avec la gestion des séries temporelles liées aux prix boursiers.
+
+Par la suite, j'ai déterminé et mis en œuvre divers indicateurs techniques majeurs, y compris les moyennes mobiles (sur 20 et 40 jours), le RSI, l'indicateur stochastique ainsi que les bandes de Bollinger.
+
+Finalement, l'un des buts principaux était d'organiser les données de manière à ce qu'elles puissent être traitées efficacement en Python, en utilisant pandas et Jupyter.
+
 
 ---
 
 ##  Données
 
-Les données sont stockées dans le fichier :
-
-data/Finance_de_marche.xlsx
-
-Les données ont été récupérées depuis le site ABC Bourse
+Les données que j'ai utilisées sont stockées dans le fichier data/Finance_de_marche.xlsx. Je les ai récupérées manuellement depuis le site ABC Bourse pour les besoins de cet exercice académique.
 
 ---
 
@@ -80,6 +74,7 @@ Projet réalisé par **Lachique Tom**
 📩 E-mail : tom.lachique.135@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/tom-lachique-9b969427b/
+
 
 
 
